@@ -37,6 +37,22 @@ export default function Filters() {
         </Menu>
       </Container>
 
+      <Container>
+        <Menu vertical>
+
+          <Dropdown item text='İş Verenler'>
+            <Dropdown.Menu>
+              <Dropdown.Item>Oz Yazılım</Dropdown.Item>
+              <Dropdown.Item>Kaplan İnşaat</Dropdown.Item>
+              <Dropdown.Item>Data Yazılım</Dropdown.Item>
+            </Dropdown.Menu>
+          </Dropdown>
+
+
+        </Menu>
+      </Container>
+
+
 
 
     </div>
